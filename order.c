@@ -71,7 +71,7 @@ printf("\nThe TOTAL is: $%.2f\n Enjoy your %s\n",total,item);
 
 
 int how;
-
+ 
  printf("How would you like to pay?(1.card/0.cash)");
  scanf("%d",&how);
 
